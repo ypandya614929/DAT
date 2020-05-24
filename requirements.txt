@@ -1,0 +1,12 @@
+Django==1.11
+tweepy
+wordcloud
+IPython
+rake_nltk
+googlemaps
+matplotlib
+django-heroku
+gunicorn
+whitenoise
+dj-database-url
+django-tastypie
